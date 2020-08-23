@@ -1,4 +1,6 @@
 import java.util.*;
+//Amazon Interview Ques 2020
+//Created by Geetanjali
 public class PatternWin {
 
 	public static void main(String[] args) {
@@ -50,3 +52,4 @@ public class PatternWin {
 	}
 
 }
+//Complexity O(n) where n is the number of elements in the input list, here it is shoppingCart
